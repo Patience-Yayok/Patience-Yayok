@@ -1,6 +1,6 @@
 Hi, My name is Patience Godiya Yayok
 
-I am a Highly motivated and results-oriented Data Analyst with 8+ years of experience in Sales, Customer Service,data analysis, visualization, and reporting. with Proven ability to leverage data insights to optimize operations, identify trends, and drive informed decision-making. Skilled in data cleaning, manipulation, and analysis using various tools including Power BI, Excel, Python, R, and SQL. Experienced in collaborating with cross-functional teams to translate data into actionable insights.
+I am a Highly motivated and results-oriented Data Analyst with 10 years of experience in Sales, Customer Service,data analysis, visualization, and reporting. with Proven ability to leverage data insights to optimize operations, identify trends, and drive informed decision-making. Skilled in data cleaning, manipulation, and analysis using various tools including Power BI, Excel, Python, R, and SQL. Experienced in collaborating with cross-functional teams to translate data into actionable insights.
 
 My Key Skills are:
 
